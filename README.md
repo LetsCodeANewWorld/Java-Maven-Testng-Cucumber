@@ -1,4 +1,4 @@
-## Zone Interview
+## Zone
 Simple boilerplate to kick start your testng-cucumber maven java project with some additional features like "CucumberOptions": tags, glue, screenshots, set environment/browser methods
 ## Features
 * Crisp & Clear maven folder structures
@@ -87,4 +87,4 @@ Default cucumber HTML reports are generated which can be customized according to
 ![report1](./images/report1.png)
 ![report2](./images/report2.png)
 ![report3](./images/report3.png)
-# Zone-InterviewTask
+# Zone
